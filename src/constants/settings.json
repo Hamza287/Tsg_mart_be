@@ -115,10 +115,10 @@
     },
 
     "cloudinary": {
-      "cloudName": "demo-cloud",
-      "apiKey": "123456789012345",
-      "apiSecret": "abcDEFghiJKLmnopQRS",
-      "preset": "nextall_uploads"
+      "cloudName": "dfnfflzol",
+      "apiKey": "778129283543369",
+      "apiSecret": "zVnMw6Fz_S2Sr20N2OV-NeaS_SE",
+      "preset": "my-uploads"
     }
   }
 }
